@@ -7,10 +7,10 @@ export default function Home() {
     <div className={styles.container}>
       <div className={styles.stars}></div>
       <Head>
-        <title>Relum - Cutting-edge AI</title>
-        <meta name="description" content="Relum is developing some of the world's most advanced AI models." />
+        <title>Relum - Cutting-edge AI Models</title>
+        <meta name="description" content="Relum is working on some of the world's most advanced AI models." />
         <meta property="og:title" content="Relum - Cutting-edge AI Models" />
-        <meta property="og:description" content="Relum is developing some of the world's most advanced AI models." />
+        <meta property="og:description" content="Relum is working on some of the world's most advanced AI models." />
         <meta property="og:url" content="http://www.relum.ai" />
         <meta property="og:type" content="website" />
         <link rel="icon" href="/favicon.ico" />
