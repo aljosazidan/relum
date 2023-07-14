@@ -32,7 +32,7 @@ export default function Home() {
 
         <p className={styles.description}>
           If the realm of advanced AI research intrigues you, consider reaching out to us
-          <a href="https://form.typeform.com/to/YPLdfXyX" className={styles.link} target="_blank" rel="noopener noreferrer"> here</a>.
+          <a href="https://form.typeform.com/to/YPLdfXyX" className={styles.link} target="_blank" rel="noopener noreferrer">here</a>.
         </p>
       </main>
 
