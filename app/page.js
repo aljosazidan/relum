@@ -31,8 +31,8 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          If the realm of advanced AI research intrigues you, consider reaching out to us at
-          <a href="https://form.typeform.com/to/YPLdfXyX" className={styles.link} target="_blank" rel="noopener noreferrer">here</a>.
+          If the realm of advanced AI research intrigues you, consider reaching out to us
+          <a href="https://form.typeform.com/to/YPLdfXyX" className={styles.link} target="_blank" rel="noopener noreferrer"> here</a>.
         </p>
       </main>
 
