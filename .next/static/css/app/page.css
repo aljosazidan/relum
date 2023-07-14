@@ -1,0 +1,70 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[4].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[4].oneOf[7].use[3]!./app/page.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************/
+.page_container__jZF7q {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.page_main__nw1Wk {
+  padding: 5rem 2rem;  /* adjust the padding here */
+  flex: 1 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  font-family: 'Helvetica', sans-serif;
+}
+
+.page_title__po7na {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+  text-align: left;
+}
+
+.page_description__lvaOp {
+  text-align: left;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+.page_link__k5j_x {
+  color: #0070f3;
+  margin-left: 0.3rem;
+  text-decoration: none;
+}
+
+.page_link__k5j_x:hover {
+  text-decoration: underline;
+}
+
+.page_footer__F3MD0 {
+  width: 100%;
+  height: 100px;
+  border-top: 1px solid #eaeaea;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+.page_footer__F3MD0 img {
+  margin-left: 0.5rem;
+}
+
+.page_footer__F3MD0 a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
