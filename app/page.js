@@ -32,7 +32,7 @@ export default function Home() {
 
         <p className={styles.description}>
           If the realm of advanced AI research intrigues you, consider reaching out to us at
-          <a href="mailto:start@relum.ai" className={styles.link}>start@relum.ai</a>.
+          <a href="https://form.typeform.com/to/YPLdfXyX" className={styles.link} target="_blank" rel="noopener noreferrer">here</a>.
         </p>
       </main>
 
